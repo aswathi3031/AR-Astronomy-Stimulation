@@ -1,10 +1,12 @@
 # AR-Astronomy-Stimulation
 1.Objective
+
 The primary objective of this project was to create an engaging educational tool that allows users to interact with planets like Earth, Mars, Venus, Mercury, the Sun, and the Moon in a virtual environment.
 Our methodology involved meticulous content creation, including detailed 3D modeling of each planetary body, integration into the Unity platform, and scripting dynamic behaviors such as orbits and rotations. Through user-friendly interfaces and marker-based interactions, students can navigate the AR simulation, explore celestial bodies, and access informative content.Initial testing  indicate promising results, with users reporting increased interest and comprehension of astronomy concepts. 
 This project signifies a step forward in utilizing cutting-edge technology to enhance learning experiences, paving the way for more immersive and engaging educational tools in the future.
 
 2.Tools used
+
 a. Unity:
 It provides a wide range of tools and features for creating interactive and immersive experiences across various platforms. In this project, Unity served as the primary engine for building the AR simulation, allowing for the integration of 3D models, scripting, user interfaces, and more.
 
@@ -21,4 +23,5 @@ e. Packages:
 Unity packages are pre-built sets of assets, scripts, and functionalities that can be easily imported into a project to extend its capabilities. Throughout the development process, we utilized various Unity packages to streamline development tasks, enhance visual quality, and add additional features to the AR simulation, thereby optimizing workflow and efficiency.
 
 3.Conclusion
+
 In conclusion, our project has successfully utilized Unity and Vuforia technologies to create an engaging Augmented Reality simulation for exploring planetary bodies. By integrating Text-to-Speech Maker, scripting, and Unity packages, we enhanced the educational experience, making learning about Earth, Mars, Venus, Mercury, the Sun, and the Moon more interactive and immersive. The project shows promise in revolutionizing astronomy education by providing a fun and informative way for students to learn about the cosmos. This project marks a significant step towards leveraging technology to make learning more accessible and enjoyable, paving the way for future advancements in educational tools and experiences.
