@@ -7,12 +7,16 @@ This project signifies a step forward in utilizing cutting-edge technology to en
 2.Tools used
 a. Unity:
 It provides a wide range of tools and features for creating interactive and immersive experiences across various platforms. In this project, Unity served as the primary engine for building the AR simulation, allowing for the integration of 3D models, scripting, user interfaces, and more.
+
 b. Vuforia:
 Vuforia is an augmented reality software development kit (SDK) that enables the creation of marker-based AR experiences. By utilizing Vuforia's capabilities, we were able to implement marker detection and tracking, allowing users to interact with virtual content superimposed onto real-world objects.And also for check the rating of how much a image is augmentable.
+
 c. TTSMaker:
 TTSMaker, or Text-to-Speech Maker, is a tool used for converting written text into spoken audio. In our project, TTSMaker was employed to enhance the educational experience by providing auditory explanations and information about celestial bodies within the AR simulation.
+
 d. Scripting:
 Scripting plays a crucial role in programming the behavior and interactions of virtual elements within the AR simulation. Through scripting in languages like C# within the Unity environment, we were able to implement dynamic behaviors such as planetary orbits, user interactions, and information retrieval.We added scripting for button interaction, UI and sound , Touch Test and rotation.
+
 e. Packages:
 Unity packages are pre-built sets of assets, scripts, and functionalities that can be easily imported into a project to extend its capabilities. Throughout the development process, we utilized various Unity packages to streamline development tasks, enhance visual quality, and add additional features to the AR simulation, thereby optimizing workflow and efficiency.
 
